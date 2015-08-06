@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8E0D2D50-7C3D-4AD7-95C0-4F9C3AA3096B}</ProjectGuid>
+    <ProjectGuid>{898A8D83-76CC-46D2-B979-22E634B51476}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ElasticDataProcesser</RootNamespace>
